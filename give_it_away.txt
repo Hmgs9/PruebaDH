@@ -1,7 +1,6 @@
 Give it away, Give it away, Give it away, now!
-<<<<<<< HEAD
 
 Hola eso es un cambio en este archivo para el paso número 7
-=======
+
 I can't tell if I'm a kingpin or a pauper
->>>>>>> 30c447b37f910b6f99fb47a349a59823fe0e63ff
+
